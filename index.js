@@ -7,18 +7,18 @@ const appstatePath = path.join(__dirname, 'appstate.json');
 let botModule = null;
 let botStarted = false;
 
-const BRAND_NAME = "SARDAR RDX";
-const BRAND_WHATSAPP = "+923301068874";
-const BRAND_EMAIL = "sardarrdx@gmail.com";
+const BRAND_NAME = "JARRY";
+const BRAND_WHATSAPP = "+913453961014";
+const BRAND_EMAIL = "alikhanabro08@gmail.com";
 
 function getConfig() {
   try {
     return fs.readJsonSync(configPath);
   } catch {
     return {
-      BOTNAME: 'SARDAR RDX',
+      BOTNAME: 'JARRY',
       PREFIX: '.',
-      ADMINBOT: ['100009012838085'],
+      ADMINBOT: ['61578560588461'],
       TIMEZONE: 'Asia/Karachi',
       PREFIX_ENABLED: true,
       REACT_DELETE_EMOJI: '😡',
