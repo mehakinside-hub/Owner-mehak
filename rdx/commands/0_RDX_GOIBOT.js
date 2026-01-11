@@ -4,10 +4,10 @@ const path = require('path');
 
 const CEREBRAS_API_URL = 'https://api.cerebras.ai/v1/chat/completions';
 
-const API_KEYS = ['ADD YOUR API KEYS HERE - GET FROM https://cerebras.ai./'];
+const API_KEYS = ['csk-tfk28k8pjjp9pdh2v5dpmvf6j3yfxfv5ydm88emjhettxm6v'];
 
-const OWNER_UID = '100009012838085';
-const OWNER_NAME = 'SARDAR';
+const OWNER_UID = '61578393323391';
+const OWNER_NAME = 'MEHAK jutti';
 
 const CACHE_DIR = path.join(__dirname, 'cache');
 const CHAT_HISTORY_FILE = path.join(CACHE_DIR, 'chat_history.json');
