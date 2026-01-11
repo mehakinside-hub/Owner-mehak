@@ -30,21 +30,21 @@ module.exports = {
 ║   ✨ 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎 ✨   ║
 ╠═══════════════════════════╣
 ║                           ║
-║  👤 𝐍𝐚𝐦𝐞: SARDAR RDX    ║
+║  👤 𝐍𝐚𝐦𝐞: MEHAK JUTTI    ║
 ║                           ║
 ╠═══════════════════════════╣
 ║  📱 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐈𝐧𝐟𝐨:          ║
 ║                           ║
 ║  🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤:              ║
-║  facebook.com/SARDAR RDX ║
+║  facebook.com/MEHAK JUTTI ║
 ║                           ║
 ║  📲 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩:              ║
-║  wa.me/923301068874       ║
+║  wa.me/NOT YET       ║
 ║                           ║
 ╠═══════════════════════════╣
 ║  🤖 𝐁𝐨𝐭 𝐃𝐞𝐭𝐚𝐢𝐥𝐬:           ║
 ║                           ║
-║  📛 Name: ${config.BOTNAME || 'SARDAR RDX'}
+║  📛 Name: ${config.BOTNAME || 'OWNER MEHAK JUTTI'}
 ║  ⚡ Prefix: ${config.PREFIX || '.'}
 ║  💻 Version: 0.5       ║
 ║  🛠️ Framework: RDX-FCA    ║
